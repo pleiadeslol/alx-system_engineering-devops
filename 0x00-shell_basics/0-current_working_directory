@@ -1,2 +1,3 @@
 #!/bin/bash
-dir=$(pwd $0); echo "$dir";
+pwd
+
