@@ -1,4 +1,4 @@
-Shell basics project:
+Shell projects:
 
 - [0x00-shell_basics](/0x00-shell_basics)
 
